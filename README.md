@@ -11,7 +11,7 @@
 ------ 
 Prayer Times provides a set of handy functions to calculate prayer times for any location around the world, based on a variety of calculation methods currently used in Muslim communities.
 
-You can report any issue on issues page. **Note: If you speak Bangla, you can submit issues with Arabic language and I will check them. :)**
+You can report any issue on issues page. **Note: If you speak Bangla, you can submit issues with Bangla language and I will check them. :)**
 
 
 ## Installation
@@ -19,8 +19,8 @@ You can report any issue on issues page. **Note: If you speak Bangla, you can su
 **Maven**
 ```xml
 <dependency>
-	    <groupId>com.github.ensark-foundation</groupId>
-	    <artifactId>Muslim-Library</artifactId>
+<groupId>com.github.ensark-foundation</groupId>
+<artifactId>Muslim-Library</artifactId>
 <version>1.0.0</version>
 </dependency>
 ```
