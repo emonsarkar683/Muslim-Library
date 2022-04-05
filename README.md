@@ -19,9 +19,9 @@ You can report any issue on issues page. **Note: If you speak Arabic, you can su
 **Maven**
 ```xml
 <dependency>
-<groupId>net.alhazmy13.PrayerTimes</groupId>
-<artifactId>library</artifactId>
-<version>1.0.1-beta</version>
+	    <groupId>com.github.ensark-foundation</groupId>
+	    <artifactId>Muslim-Library</artifactId>
+<version>1.0.0</version>
 </dependency>
 ```
 
@@ -29,7 +29,7 @@ You can report any issue on issues page. **Note: If you speak Arabic, you can su
 **Gradle**
 ```gradle
 dependencies {
-	compile 'net.alhazmy13.PrayerTimes:library:1.0.1-beta'
+	compile 'com.github.ensark-foundation:Muslim-Library:1.0.0'
 	}
 ```
 
@@ -93,7 +93,7 @@ prayers.setOffsets(new int[]{0, 0, 0, 0, 0, 0, 0});
 
 ## License
 ------ 
-    Copyright 2016 alhazmy
+    Copyright 2022 EnSark Foundation
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -108,3 +108,8 @@ prayers.setOffsets(new int[]{0, 0, 0, 0, 0, 0, 0});
     limitations under the License.
     
 
+
+## Notice
+------
+Alhazmy13 is the Real Creator of this library & We (EnSark Foundation) modified & In Sha Allah we will keep updating this & add other service.
+Thank You
