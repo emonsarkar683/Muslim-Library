@@ -11,7 +11,7 @@
 ------ 
 Prayer Times provides a set of handy functions to calculate prayer times for any location around the world, based on a variety of calculation methods currently used in Muslim communities.
 
-You can report any issue on issues page. **Note: If you speak Arabic, you can submit issues with Arabic language and I will check them. :)**
+You can report any issue on issues page. **Note: If you speak Bangla, you can submit issues with Arabic language and I will check them. :)**
 
 
 ## Installation
@@ -112,4 +112,4 @@ prayers.setOffsets(new int[]{0, 0, 0, 0, 0, 0, 0});
 ## Notice
 ------
 Alhazmy13 is the Real Creator of this library & We (EnSark Foundation) modified & In Sha Allah we will keep updating this & add other service.
-Thank You
+Thank You.
